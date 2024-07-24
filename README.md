@@ -1,20 +1,18 @@
-# PremFun
+# Scraping Premier League Data
 
-In this project, we will predict the winner of football matches in the English Premier League (EPL) by using data to extract meaning from recent trends.
+In this project, we will scrape data to eventually extract meaning from recent trends.
 
 **Enlisting the steps which helped me conceptualize and implement the project:**
 
 -   Scrape match data using requests, BeautifulSoup, and pandas.
 -   Clean the data and get it ready for machine learning using pandas.
--   Make predictions about who will win a match using scikit-learn.
--   Measure error and improve our predictions.
+
 
 ## Code
 
 File overview:
 
 -   `scraping.ipynb`  - a Jupyter notebook that scrapes our data.
--   `predictions.ipynb`  - a Jupyter notebook that makes predictions.
 
 # Local Setup
 
@@ -28,7 +26,6 @@ To follow this project, please install the following locally:
     -   pandas
     -   requests
     -   BeautifulSoup
-    -   scikit-learn
 
 ## Data
 
