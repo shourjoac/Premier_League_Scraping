@@ -5,7 +5,7 @@ In this project, we will predict the winner of football matches in the English P
 **Enlisting the steps which helped me conceptualize and implement the project:**
 
 -   Scrape match data using requests, BeautifulSoup, and pandas.
--   Clean the data and get it ready for machine learning using pandas.
+-   Clean the data and get it ready for machine learning using pandas and regex.
 -   Make predictions about who will win a match using scikit-learn.
 -   Measure error and improve our predictions.
 
